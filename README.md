@@ -3,6 +3,9 @@
 
 Bu sayfada Genç MSMB Youtube kanalındaki videoların çalışma dosyalarını bulabilirsiniz.
 
+Videolarda takip edilen deneyler için: 
+>http://www.elelab.itu.edu.tr/foyler.html
+
 ## Dosyaları indirme
 
 İndirmek İstediğiniz dosyaya tıklayıp açılan sayfada `Download` seçeneğine tıklayın.
