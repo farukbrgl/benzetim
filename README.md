@@ -17,7 +17,7 @@ Aşağıdaki bağlantıdaki föyler değiştirilmiş. Eski föylere aşağıdaki
 
 ## Deneyler
 
-- [Deney 1](https://github.com/farukbrgl/benzetim/blob/master/Deneyler/deney1.asc)
+- [Deney 1](https://github.com/farukbrgl/benzetim/blob/master/Deneyler/deney1.zip)
 
 
 İndirmek İstediğiniz dosyaya sağ tıklayıp açılan menüde `Download` seçeneğine tıklayın.
