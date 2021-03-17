@@ -15,11 +15,12 @@ Aşağıdaki bağlantıdaki föyler değiştirilmiş. Eski föylere aşağıdaki
 - [Deney Föyü 5](https://github.com/farukbrgl/benzetim/blob/master/Deney%20F%C3%B6yleri/ELEgiris-deney5.pdf)
 - [Deney Föyü 6](https://github.com/farukbrgl/benzetim/blob/master/Deney%20F%C3%B6yleri/ELEgiris-deney6.pdf)
 
-## Dosyaları indirme (yapım aşamasında)
+## Deneyler
 
-Dosyalar hazırlandığı zaman buraya yüklenecektir.
+- [Deney 1](https://github.com/farukbrgl/benzetim/blob/master/Deneyler/deney1.asc)
 
-İndirmek İstediğiniz dosyaya tıklayıp açılan sayfada `Download` seçeneğine tıklayın.
+
+İndirmek İstediğiniz dosyaya sağ tıklayıp açılan menüde `Download` seçeneğine tıklayın.
 
 ## Dosyaların kullanımı
 
