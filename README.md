@@ -17,6 +17,7 @@ Aşağıdaki bağlantıdaki föyler değiştirilmiş. Eski föylere aşağıdaki
 
 ## Deneyler
 
+İstediğiniz deneye tıklayarak dosyalarını indirebilirsiniz.
 - [Deney 1](https://github.com/farukbrgl/benzetim/raw/master/Deneyler/deney1.zip)
 - [Deney 2](https://github.com/farukbrgl/benzetim/raw/master/Deneyler/deney2.zip)
 - [Deney 3](https://github.com/farukbrgl/benzetim/raw/master/Deneyler/deney3.zip)
