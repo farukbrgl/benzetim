@@ -20,7 +20,7 @@ Aşağıdaki bağlantıdaki föyler değiştirilmiş. Eski föylere aşağıdaki
 - [Deney 1](https://github.com/farukbrgl/benzetim/blob/master/Deneyler/deney1.zip)
 
 
-İndirmek İstediğiniz dosyaya sağ tıklayıp açılan menüde `Download` seçeneğine tıklayın.
+İndirmek İstediğiniz dosyaya sağ tıklayıp açılan sayfada **Download** seçeneğine tıklayın.
 
 ## Dosyaların kullanımı
 
